@@ -2,6 +2,4 @@
 
 Version 2 del readme
 
-Cambio de miembro 1
-
-Cambio nuevo de miembro 2
+Cambio de miembro 1 y 2
