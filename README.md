@@ -1,3 +1,3 @@
 # SOS2324-00
 
-Version inicial
+Version 2 del readme
